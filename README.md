@@ -39,7 +39,7 @@ MONGO_URI=<your mongodb connection string>
 JWT_SECRET=<any random secret>
 PORT=5000
 
-<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/a73c8f74-849d-4c72-b633-1361108e4fe4" />
+
 
 ---
 
